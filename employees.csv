@@ -1,0 +1,624 @@
+EmployeeID,Gender,Age,Education,Department,JobRole,HireDate,TerminationDate,ReasonForLeaving,EmploymentType,ExperienceYears,AnnualSalary,EmploymentStatus
+E0001,Male,36,Master's,Marketing,Marketing Executive,2016-02-24,2021-02-15,Better Compensation,Full-Time,10,807000.0,Resigned
+E0002,Male,36,High School,Engineering,Data Analyst,2025-01-21,2026-01-30,Higher Studies,Full-Time,10,1910000.0,Resigned
+E0003,Male,34,Bachelor's,HR,HR Manager,2018-10-10,2020-02-08,Career Growth,Full-Time,12,1444000.0,Resigned
+E0004,Male,29,Master's,Engineering,Software Engineer,2024-02-15,,,Part-Time,8,1195000.0,Active
+E0005,Female,29,Bachelor's,Customer Support,Support Lead,2017-07-22,,,Part-Time,7,885000.0,Active
+E0006,Male,21,Bachelor's,Sales,Account Manager,2023-03-06,,,Full-Time,0,928000.0,Active
+E0007,Male,29,Bachelor's,Engineering,Senior Engineer,2023-07-07,,,Full-Time,4,1171000.0,Active
+E0008,Male,28,Bachelor's,Finance,Accountant,2018-01-01,,,Contract,6,695000.0,Active
+E0009,Male,33,Bachelor's,Operations,Operations Manager,2025-08-09,2026-01-17,Career Growth,Full-Time,6,849000.0,Resigned
+E0010,Female,33,Bachelor's,Engineering,Data Analyst,2022-10-11,,,Part-Time,9,1982000.0,Active
+E0011,Male,30,Master's,Engineering,Senior Engineer,2019-04-13,,,Full-Time,2,1308000.0,Active
+E0012,Male,28,Master's,Product,Product Analyst,2026-03-18,,,Full-Time,5,1232000.0,Active
+E0013,Female,38,Bachelor's,Sales,Sales Executive,2023-06-24,,,Full-Time,13,738000.0,Active
+E0014,Female,29,Bachelor's,Customer Support,Support Associate,2026-05-14,,,Full-Time,1,423000.0,Active
+E0015,Female,38,Master's,Engineering,QA Engineer,2015-08-26,,,Full-Time,14,1761000.0,Active
+E0016,Male,23,PhD,Customer Support,Support Associate,2020-04-30,2026-06-29,Higher Studies,Full-Time,0,529000.0,Resigned
+E0017,Male,34,Master's,Customer Support,Support Associate,2024-02-04,,,Full-Time,10,594000.0,Active
+E0018,Female,32,Bachelor's,Engineering,Software Engineer,2017-06-21,,,Full-Time,12,1019000.0,Active
+E0019,Male,38,High School,Operations,Operations Manager,2023-03-15,2026-08-25,Poor Management,Full-Time,11,757000.0,Resigned
+E0020,Male,33,Bachelor's,Sales,Account Manager,2024-05-17,,,Full-Time,10,1161000.0,Active
+E0021,Male,35,Bachelor's,Marketing,Brand Manager,2016-03-23,,,Full-Time,10,1383000.0,Active
+E0022,Male,32,Bachelor's,Engineering,Senior Engineer,2024-06-26,2026-07-23,Personal Reasons,Part-Time,4,1160000.0,Resigned
+E0023,Male,37,Bachelor's,Product,Product Analyst,2019-07-01,,,Full-Time,15,1338000.0,Active
+E0024,Female,36,Bachelor's,SALES,Account Manager,2026-05-24,,,Full-Time,9,1203000.0,Active
+E0025,Female,27,Bachelor's,Engineering,Software Engineer,2022-04-28,,,Part-Time,3,910000.0,Active
+E0026,Male,22,Bachelor's,Engineering,Data Analyst,2025-10-14,,,Contract,1,1910000.0,Active
+E0027,Male,38,Bachelor's,Customer Support,Support Associate,2024-12-06,,,Full-Time,14,563000.0,Active
+E0028,Male,21,Bachelor's,Finance,Accountant,2024-07-25,,,Contract,0,766000.0,Active
+E0029,Non-binary,35,PhD,Engineering,Data Analyst,2017-05-23,,,Contract,9,2904000.0,Active
+E0030,Male,21,Bachelor's,Operations,Operations Executive,2025-12-11,,,Contract,0,537000.0,Active
+E0031,Female,23,Master's,Marketing,Marketing Executive,2022-08-01,,,Full-Time,0,658000.0,Active
+E0032,Female,33,Bachelor's,Engineering,QA Engineer,2017-12-17,,,Part-Time,9,1351000.0,Active
+E0033,Male,29,Master's,Engineering,DevOps Engineer,2016-06-19,,,Full-Time,5,1757000.0,Active
+E0034,Male,44,High School,Marketing,Brand Manager,2022-11-02,2025-02-25,Work-Life Balance,Full-Time,19,1436000.0,Resigned
+E0035,Female,39,Bachelor's,Engineering,QA Engineer,2022-03-23,,,Full-Time,16,1682000.0,Active
+E0036,Female,30,PhD,HR,Recruiter,2023-04-30,,,Contract,7,1126000.0,Active
+E0037,Male,27,Master's,Engineering,QA Engineer,2026-02-14,,,Full-Time,2,1539000.0,Active
+E0038,Male,28,Master's,Engineering,Software Engineer,2024-07-31,,,Full-Time,2,1028000.0,Active
+E0039,Male,23,Master's,Engineering,Software Engineer,2015-10-12,,,Full-Time,0,950000.0,Active
+E0040,Male,23,Bachelor's,Marketing,Brand Manager,2023-06-19,,,Contract,0,1170000.0,Active
+E0041,Female,26,Bachelor's,Engineering,Data Analyst,2021-10-19,,,Full-Time,0,1623000.0,Active
+E0042,Female,34,High School,Engineering,DevOps Engineer,2026-01-13,2026-09-30,Personal Reasons,Full-Time,9,1296000.0,Resigned
+E0043,Male,28,Master's,Marketing,Marketing Executive,2019-07-31,,,Full-Time,3,721000.0,Active
+E0044,Male,21,Master's,Engineering,DevOps Engineer,2022-12-23,,,Full-Time,0,1768000.0,Active
+E0045,Male,32,Bachelor's,Operations,Operations Manager,2025-09-02,,,Full-Time,10,925000.0,Active
+E0046,Female,41,Master's,Engineering,DevOps Engineer,2025-09-11,,,Full-Time,18,2080000.0,Active
+E0047,Male,21,Master's,Engineering,Senior Engineer,2015-04-11,,,Full-Time,0,1377000.0,Active
+E0048,Female,31,Bachelor's,OPERATIONS,Operations Executive,2026-01-11,2026-09-25,Work-Life Balance,Contract,4,526000.0,Resigned
+E0049,Male,27,Master's,Operations,Operations Executive,2025-11-26,,,Full-Time,2,661000.0,Active
+E0050,Female,32,Bachelor's,Operations,Operations Executive,2025-02-18,,,Full-Time,4,539000.0,Active
+E0051,Female,33,Bachelor's,HR,HR Manager,2022-11-22,,,Part-Time,10,1227000.0,Active
+E0052,Male,30,Bachelor's,Engineering,Data Analyst,2026-01-01,,,Full-Time,7,2084000.0,Active
+E0053,Male,33,Bachelor's,Operations,Operations Executive,2025-12-17,2026-06-29,Career Growth,Full-Time,10,591000.0,Resigned
+E0054,Female,27,Bachelor's,Engineering,  DevOps Engineer ,2022-02-10,2024-04-30,Career Growth,Full-Time,0,1470000.0,Resigned
+E0055,Female,26,Bachelor's,Operations,Operations Manager,2023-03-28,,,Full-Time,0,814000.0,Active
+E0056,Female,36,Master's,Sales,Sales Manager,2022-09-19,,,Full-Time,8,1778000.0,Active
+E0057,Male,30,Bachelor's,Marketing,Marketing Executive,2022-04-13,,,Full-Time,7,698000.0,Active
+E0058,Female,21,Bachelor's,Sales,Account Manager,2026-09-06,,,Full-Time,0,967000.0,Active
+E0059,Female,34,Master's,Product,Product Analyst,2026-03-25,2026-06-25,Work-Life Balance,Full-Time,10,1421000.0,Resigned
+E0060,Male,39,Bachelor's,Sales,Sales Executive,2026-04-20,2026-08-02,Poor Management,Full-Time,15,761000.0,Resigned
+E0061,Female,31,Bachelor's,Customer Support,Support Lead,2026-01-04,,,Full-Time,6,951000.0,Active
+E0062,Female,28,Master's,Engineering,QA Engineer,2021-05-07,,,Full-Time,7,1681000.0,Active
+E0063,Male,34,High School,Customer Support,Support Lead,2024-06-06,,,Part-Time,10,877000.0,Active
+E0064,Male,36,Bachelor's,Marketing,Content Specialist,2025-06-15,,,Full-Time,8,1019000.0,Active
+E0065,Female,46,Bachelor's,HR,HR Manager,2022-06-27,,,Full-Time,24,1649000.0,Active
+E0066,Male,38,Bachelor's,Customer Support,Support Lead,2020-06-20,,,Full-Time,13,968000.0,Active
+E0067,Male,23,Master's,Engineering,Data Analyst,2017-02-21,,,Full-Time,1,2057000.0,Active
+E0068,Female,38,Master's,Customer Support,Support Associate,2026-06-12,2026-09-17,Career Growth,Full-Time,17,675000.0,Resigned
+E0069,Female,48,PhD,Customer Support,Support Lead,2024-07-18,2025-05-01,Career Growth,Contract,26,1554000.0,Resigned
+E0070,Male,39,Bachelor's,Marketing,Marketing Executive,2026-04-06,,,Contract,13,739000.0,Active
+E0071,Male,33,Bachelor's,Operations,Operations Manager,2020-12-27,,,Contract,11,1000000.0,Active
+E0072,Female,38,Bachelor's,Customer Support,Support Associate,2015-02-20,,,Full-Time,13,510000.0,Active
+E0073,Male,26,Master's,Product,Product Manager,2024-03-31,2026-04-04,Work-Life Balance,Full-Time,1,2479000.0,Resigned
+E0074,Male,32,Bachelor's,HR,Recruiter,2024-05-02,,,Full-Time,8,972000.0,Active
+E0075,Male,35,Bachelor's,Finance,Financial Analyst,2024-05-28,,,Full-Time,13,1831000.0,Active
+E0076,Male,32,Master's,Product,Product Analyst,2015-11-29,,,Full-Time,11,1439000.0,Active
+E0077,Female,35,Bachelor's,Engineering,DevOps Engineer,2017-08-06,,,Full-Time,12,1878000.0,Active
+E0078,Female,27,Master's,Marketing,Content Specialist,2023-02-10,,,Full-Time,0,913000.0,Active
+E0079,Male,26,High School,Engineering,Senior Engineer,2021-05-20,,,Full-Time,0,906000.0,Active
+E0080,Male,40,Master's,Sales,Account Manager,2022-06-14,2025-02-12,Relocation,Full-Time,14,1354000.0,Resigned
+E0081,male,26,Bachelor's,Engineering,Data Analyst,2026-08-10,,,Full-Time,1,1808000.0,Active
+E0082,Female,27,Master's,Engineering,Data Analyst,2021-07-25,,,Full-Time,1,1933000.0,Active
+E0083,Male,39,Bachelor's,Sales,Account Manager,2019-08-14,,,Contract,14,1279000.0,Active
+E0084,Male,36,High School,HR,HR Manager,2016-04-19,,,Part-Time,10,1243000.0,Active
+E0085,Male,36,Bachelor's,Engineering,Data Analyst,2025-06-29,,,Full-Time,9,2108000.0,Active
+E0086,Male,27,Bachelor's,Engineering,Data Analyst,2024-09-19,2026-09-24,Work-Life Balance,Full-Time,3,1877000.0,Resigned
+E0087,Male,24,High School,Engineering,Data Analyst,2016-04-09,,,Full-Time,0,1540000.0,Active
+E0088,Male,22,Bachelor's,Engineering,QA Engineer,2024-08-25,,,Full-Time,0,1478000.0,Active
+E0089,Female,49,Bachelor's,Engineering,Data Analyst,2023-07-20,,,Full-Time,26,2225000.0,Active
+E0090,Female,34,Master's,Engineering,QA Engineer,2022-11-01,,,Full-Time,7,1724000.0,Active
+E0091,Female,26,Master's,Customer Support,Support Lead,2023-05-05,,,Full-Time,0,909000.0,Active
+E0092,Female,29,Master's,Sales,Account Manager,2025-09-21,2026-09-03,Personal Reasons,Full-Time,7,1301000.0,Resigned
+E0093,Male,27,Bachelor's,Operations,Operations Executive,2024-04-19,2026-09-26,Personal Reasons,Full-Time,6,575000.0,Resigned
+E0094,Male,30,Bachelor's,Marketing,Brand Manager,2024-12-28,,,Full-Time,5,1207000.0,Active
+E0095,Male,42,Master's,Operations,Operations Manager,2018-03-23,,,Full-Time,21,1278000.0,Active
+E0096,Female,32,Bachelor's,Engineering,Software Engineer,2022-04-05,,,Full-Time,8,977000.0,Active
+E0097,Female,27,Bachelor's,Engineering,Data Analyst,2016-12-18,,,Full-Time,7,1968000.0,Active
+E0098,Female,45,Bachelor's,Customer Support,Support Associate,2025-09-27,,,Full-Time,21,550000.0,Active
+E0099,Male,30,Bachelor's,Customer Support,Support Associate,2025-08-01,,,Full-Time,4,437000.0,Active
+E0100,Male,30,Master's,Sales,Account Manager,2024-01-06,,,Full-Time,2,1130000.0,Active
+E0101,Female,24,Bachelor's,Engineering,DevOps Engineer,2026-03-06,,,Part-Time,4,1742000.0,Active
+E0102,Male,35,Bachelor's,Operations,Operations Executive,2025-06-25,,,Full-Time,13,694000.0,Active
+E0103,Female,22,Bachelor's,Marketing,Marketing Executive,2023-09-25,,,Full-Time,0,565000.0,Active
+E0104,Male,31,Master's,Operations,Operations Manager,2021-01-18,,,Contract,6,1089000.0,Active
+E0105,Female,37,Master's,Operations,Operations Manager,2023-08-28,,,Full-Time,14,1146000.0,Active
+E0106,Female,31,Master's,Finance,Accountant,2026-09-29,,,Full-Time,4,797000.0,Active
+E0107,Female,43,Bachelor's,Customer Support,Support Lead,2019-04-10,2019-10-19,Work-Life Balance,Full-Time,18,1153000.0,Resigned
+E0108,Male,33,Bachelor's,Customer Support,Support Associate,2025-08-22,2025-12-13,Personal Reasons,Full-Time,10,513000.0,Resigned
+E0109,Male,39,Bachelor's,Engineering,Data Analyst,2026-03-02,,,Full-Time,12,2338000.0,Active
+E0110,Female,33,Master's,Engineering,DevOps Engineer,2023-07-27,,,Full-Time,11,2073000.0,Active
+E0111,Female,37,Bachelor's,Engineering,QA Engineer,2025-08-13,,,Contract,13,1678000.0,Active
+E0112,Male,28,Bachelor's,Operations,Operations Manager,2022-02-13,,,Full-Time,6,959000.0,Active
+E0113,Female,36,Bachelor's,Engineering,Data Analyst,2025-04-15,,,Full-Time,11,2252000.0,Active
+E0114,Female,34,High School,HR,HR Manager,2016-06-16,,,Full-Time,6,985000.0,Active
+E0115,Female,24,Bachelor's,Engineering,Software Engineer,2022-02-02,2024-09-11,Poor Management,Full-Time,0,934000.0,Resigned
+E0116,Male,28,Bachelor's,Sales,Account Manager,2025-06-13,,,Contract,8,1075000.0,Active
+E0117,Female,36,Bachelor's,Marketing,Content Specialist,2020-05-15,2025-08-03,Better Compensation,Full-Time,12,1082000.0,Resigned
+E0118,Female,36,Bachelor's,Customer Support,Support Associate,2025-12-29,,,Full-Time,13,496000.0,Active
+E0119,Female,36,Bachelor's,Customer Support,Support Lead,2025-08-26,2026-07-13,Retirement,Part-Time,10,940000.0,Resigned
+E0120,Male,32,Bachelor's,Sales,Sales Manager,2024-02-06,,,Full-Time,8,1475000.0,Active
+E0121,Male,36,Bachelor's,Engineering,Software Engineer,2026-07-21,,,Full-Time,15,1015000.0,Active
+E0122,Male,38,Master's,Customer Support,Support Lead,2026-03-17,,,Full-Time,11,1070000.0,Active
+E0123,Female,28,Bachelor's,Product,Product Manager,2020-05-29,,,Full-Time,3,1938000.0,Active
+E0124,Female,42,Bachelor's,Engineering,QA Engineer,2026-04-21,,,Full-Time,18,1750000.0,Active
+E0125,Male,31,Bachelor's,Operations,Logistics Coordinator,2023-09-25,,,Full-Time,8,1231000.0,Active
+E0126,Female,35,High School,Engineering,DevOps Engineer,2022-07-07,,,Full-Time,10,1487000.0,Active
+E0127,Female,46,Bachelor's,Sales,Sales Manager,2022-04-18,,,Full-Time,25,1915000.0,Active
+E0128,Male,34,Bachelor's,Engineering,DevOps Engineer,2020-09-29,,,Full-Time,13,1809000.0,Active
+E0129,Female,41,Bachelor's,Marketing,Brand Manager,2019-06-07,,,Contract,13,1505000.0,Active
+E0130,Male,45,Bachelor's,Finance,Financial Analyst,2024-05-31,,,Full-Time,23,2086000.0,Active
+E0131,Female,39,Master's,Engineering,Data Analyst,2015-06-23,,,Part-Time,12,2458000.0,Active
+E0132,Male,29,Master's,Customer Support,Support Lead,2015-03-27,2025-10-19,Higher Studies,Full-Time,4,1038000.0,Resigned
+E0133,Male,21,Bachelor's,Operations,  Operations Executive ,2018-06-24,2020-08-10,Better Compensation,Full-Time,0,514000.0,Resigned
+E0134,Male,41,Master's,Customer Support,Support Associate,2026-08-05,,,Full-Time,16,599000.0,Active
+E0135,Female,21,Bachelor's,Engineering,Data Analyst,2020-07-16,,,Full-Time,0,1873000.0,Active
+E0136,Non-binary,21,Bachelor's,Operations,Logistics Coordinator,2018-07-18,,,Full-Time,0,1120000.0,Active
+E0137,Male,27,Bachelor's,Marketing,Content Specialist,2020-03-06,2024-07-23,Higher Studies,Full-Time,4,856000.0,Resigned
+E0138,Male,32,Bachelor's,Operations,Operations Executive,2025-02-09,,,Full-Time,9,585000.0,Active
+E0139,Male,38,Bachelor's,Marketing,Content Specialist,2024-07-11,,,Part-Time,14,1179000.0,Active
+E0140,Male,38,Bachelor's,Product,Product Analyst,2019-11-29,,,Full-Time,14,1337000.0,Active
+E0141,Female,32,Bachelor's,Sales,Account Manager,2022-04-18,2026-05-06,Poor Management,Part-Time,6,1057000.0,Resigned
+E0142,Female,33,Bachelor's,Product,Product Analyst,2018-12-03,,,Full-Time,11,1137000.0,Active
+E0143,Male,33,Bachelor's,Customer Support,Support Associate,2026-07-24,,,Part-Time,10,520000.0,Active
+E0144,Male,31,Bachelor's,Finance,Accountant,2024-01-13,,,Full-Time,7,825000.0,Active
+E0145,Non-binary,33,Bachelor's,Operations,Operations Manager,2018-04-26,,,Full-Time,9,919000.0,Active
+E0146,Female,28,Master's,Finance,Accountant,2025-05-08,2026-07-26,Relocation,Full-Time,1,770000.0,Resigned
+E0147,Male,41,High School,Engineering,DevOps Engineer,2024-06-28,,,Full-Time,13,1791000.0,Active
+E0148,Female,31,Bachelor's,Sales,Sales Manager,2026-09-07,,,Contract,9,1391000.0,Active
+E0149,Male,26,Master's,Sales,Account Manager,2022-11-28,,,Full-Time,4,1149000.0,Active
+E0150,Female,21,Master's,Engineering,DevOps Engineer,2020-10-14,,,Full-Time,0,1664000.0,Active
+E0151,Male,27,Master's,Operations,Operations Executive,2026-07-31,,,Contract,3,571000.0,Active
+E0152,Male,21,Bachelor's,Sales,Account Manager,2024-02-07,2024-08-16,Higher Studies,Full-Time,0,981000.0,Resigned
+E0153,Male,22,Master's,Engineering,QA Engineer,2026-04-04,,,Full-Time,0,1580000.0,Active
+E0154,Male,23,Bachelor's,Engineering,QA Engineer,2025-05-31,,,Full-Time,0,1465000.0,Active
+E0155,Male,24,High School,Engineering,Software Engineer,2024-07-25,2026-03-18,Work-Life Balance,Full-Time,0,757000.0,Resigned
+E0156,Male,32,Master's,Customer Support,Support Associate,2018-12-16,,,Full-Time,7,588000.0,Active
+E0157,Male,42,PhD,Marketing,Brand Manager,2024-11-05,,,Full-Time,14,1874000.0,Active
+E0158,Male,32,Bachelor's,Sales,Sales Manager,2024-01-02,,,Full-Time,10,1623000.0,Active
+E0159,Male,34,Bachelor's,Customer Support,Support Lead,2016-12-18,,,Full-Time,11,968000.0,Active
+E0160,Female,43,High School,Engineering,Senior Engineer,2023-08-24,,,Full-Time,22,1290000.0,Active
+E0161,Female,28,Bachelor's,Operations,Logistics Coordinator,2022-03-16,,,Full-Time,7,1209000.0,Active
+E0162,Male,25,Bachelor's,Marketing,Content Specialist,2026-03-03,,,Full-Time,0,892000.0,Active
+E0163,Male,26,Master's,PRODUCT,Product Manager,2023-07-01,,,Full-Time,2,2287000.0,Active
+E0164,Male,40,Bachelor's,Customer Support,Support Associate,2018-04-25,,,Full-Time,17,594000.0,Active
+E0165,Male,21,Bachelor's,Engineering,DevOps Engineer,2023-12-24,,,Full-Time,0,1515000.0,Active
+E0166,Female,41,High School,Product,Product Analyst,2026-06-29,2026-09-30,Better Compensation,Full-Time,19,1145000.0,Resigned
+E0167,Female,40,Bachelor's,Finance,Financial Analyst,2016-09-20,,,Full-Time,13,1795000.0,Active
+E0168,Female,29,Bachelor's,Customer Support,Support Lead,2016-04-09,,,Full-Time,9,1114000.0,Active
+E0169,Female,43,Master's,Customer Support,Support Lead,2021-11-11,,,Full-Time,19,1352000.0,Active
+E0170,Female,34,Bachelor's,Engineering,Software Engineer,2022-06-29,,,Full-Time,9,1072000.0,Active
+E0171,Female,40,Master's,Sales,Account Manager,2025-07-30,,,Full-Time,17,1290000.0,Active
+E0172,Male,34,Bachelor's,Engineering,Senior Engineer,2025-03-18,,,Contract,8,1224000.0,Active
+E0173,Male,43,High School,Engineering,Software Engineer,2024-09-07,,,Full-Time,18,995000.0,Active
+E0174,Female,34,PhD,Customer Support,Support Associate,2025-10-24,,,Full-Time,6,516000.0,Active
+E0175,Male,32,Master's,Marketing,Marketing Executive,2022-04-24,,,Full-Time,11,866000.0,Active
+E0176,Female,22,Bachelor's,Engineering,Senior Engineer,2026-09-29,,,Full-Time,0,1144000.0,Active
+E0177,Male,21,Bachelor's,Engineering,QA Engineer,2025-04-27,2026-06-28,Work-Life Balance,Contract,0,1392000.0,Resigned
+E0178,Female,49,High School,Sales,Sales Manager,2021-06-20,,,Full-Time,25,1473000.0,Active
+E0179,Female,35,Master's,Marketing,Content Specialist,2023-09-11,,,Full-Time,11,1135000.0,Active
+E0180,Male,38,High School,Sales,Sales Manager,2023-02-22,,,Full-Time,14,1338000.0,Active
+E0181,Male,36,PhD,Finance,Financial Analyst,2025-02-24,,,Full-Time,16,2413000.0,Active
+E0182,Male,29,Bachelor's,Engineering,Senior Engineer,2025-06-14,,,Part-Time,6,1161000.0,Active
+E0183,Female,33,Master's,Engineering,QA Engineer,2016-10-14,,,Part-Time,10,1739000.0,Active
+E0184,Male,22,Master's,Customer Support,Support Associate,2023-03-17,2023-09-26,Career Growth,Part-Time,0,473000.0,Resigned
+E0185,Female,30,Bachelor's,Marketing,Content Specialist,2023-06-26,,,Full-Time,6,948000.0,Active
+E0186,Male,28,Bachelor's,Customer Support,Support Associate,2024-07-11,2026-07-09,Poor Management,Contract,2,437000.0,Resigned
+E0187,Male,38,Bachelor's,Sales,Account Manager,2021-10-03,,,Full-Time,10,1091000.0,Active
+E0188,Male,34,Master's,Engineering,QA Engineer,2020-10-12,,,Full-Time,10,1795000.0,Active
+E0189,Male,34,Master's,Engineering,Data Analyst,2020-09-18,,,Full-Time,7,2497000.0,Active
+E0190,Female,38,Bachelor's,Sales,Sales Executive,2025-04-10,,,Full-Time,14,754000.0,Active
+E0191,Female,26,Bachelor's,Engineering,DevOps Engineer,2025-03-30,2026-02-28,Better Compensation,Full-Time,0,1501000.0,Resigned
+E0192,Female,24,Bachelor's,Customer Support,Support Lead,2016-03-26,,,Full-Time,0,727000.0,Active
+E0193,Female,27,Bachelor's,Marketing,Content Specialist,2026-02-15,,,Full-Time,3,981000.0,Active
+E0194,Male,22,Bachelor's,Product,Product Manager,2020-12-23,,,Full-Time,0,2025000.0,Active
+E0195,Female,44,Bachelor's,Operations,Logistics Coordinator,2023-01-29,,,Contract,21,1441000.0,Active
+E0196,Female,30,Master's,Product,Product Manager,2024-09-09,,,Full-Time,7,2927000.0,Active
+E0197,Male,49,Master's,Sales,Sales Manager,2026-08-04,,,Full-Time,23,2208000.0,Active
+E0198,Male,21,Master's,Sales,Account Manager,2025-09-05,,,Full-Time,0,1175000.0,Active
+E0199,Female,42,Master's,HR,Recruiter,2021-11-26,2025-02-15,Better Compensation,Full-Time,15,1097000.0,Resigned
+E0200,Male,32,Master's,Engineering,QA Engineer,2022-01-11,,,Full-Time,8,1566000.0,Active
+E0201,Male,28,Bachelor's,Marketing,Content Specialist,2023-10-20,,,Contract,5,907000.0,Active
+E0202,Female,38,Bachelor's,ENGINEERING,Data Analyst,2022-03-18,,,Contract,13,2191000.0,Active
+E0203,Male,45,Master's,Engineering,DevOps Engineer,2023-08-16,2024-06-20,Personal Reasons,Full-Time,21,2430000.0,Resigned
+E0204,Male,35,Bachelor's,Sales,Sales Manager,2024-10-29,2025-05-22,Career Growth,Full-Time,9,1646000.0,Resigned
+E0205,Female,39,Master's,Finance,Accountant,2026-03-31,,,Contract,15,973000.0,Active
+E0206,Male,27,Bachelor's,HR,HR Manager,2016-07-29,,,Full-Time,0,999000.0,Active
+E0207,Male,34,Bachelor's,Engineering,Senior Engineer,2021-07-13,2025-06-10,Career Growth,Full-Time,6,1344000.0,Resigned
+E0208,Male,22,Bachelor's,Marketing,Content Specialist,2025-12-11,,,Full-Time,0,943000.0,Active
+E0209,Male,38,Bachelor's,Operations,Operations Manager,2016-09-19,,,Full-Time,15,976000.0,Active
+E0210,Female,28,Master's,Sales,Sales Manager,2026-08-18,,,Full-Time,4,1582000.0,Active
+E0211,Female,47,Bachelor's,HR,HR Manager,2021-04-29,,,Full-Time,24,1374000.0,Active
+E0212,Female,28,Bachelor's,Customer Support,Support Associate,2025-10-25,2026-09-10,Poor Management,Full-Time,7,490000.0,Resigned
+E0213,Female,49,Bachelor's,Customer Support,Support Lead,2023-09-24,,,Full-Time,27,1156000.0,Active
+E0214,Female,37,Bachelor's,Customer Support,Support Associate,2022-05-04,,,Full-Time,16,529000.0,Active
+E0215,Non-binary,34,Master's,Engineering,Senior Engineer,2024-05-10,,,Full-Time,11,1524000.0,Active
+E0216,Female,37,Bachelor's,Operations,Operations Manager,2025-01-09,,,Full-Time,15,964000.0,Active
+E0217,Male,32,Master's,Customer Support,Support Associate,2015-04-04,,,Full-Time,6,534000.0,Active
+E0218,Male,38,Master's,Sales,Account Manager,2018-02-03,,,Full-Time,15,1456000.0,Active
+E0219,Female,35,Bachelor's,Engineering,DevOps Engineer,2023-05-08,,,Full-Time,12,1771000.0,Active
+E0220,Male,38,Bachelor's,Marketing,Marketing Executive,2025-01-10,,,Full-Time,13,751000.0,Active
+E0221,Female,31,Bachelor's,Engineering,QA Engineer,2025-03-28,,,Full-Time,5,1521000.0,Active
+E0222,Male,37,Bachelor's,Operations,Logistics Coordinator,2021-03-30,,,Contract,9,1348000.0,Active
+E0223,Male,35,Bachelor's,Customer Support,Support Lead,2019-04-11,,,Full-Time,8,939000.0,Active
+E0224,Male,39,Bachelor's,Engineering,DevOps Engineer,2017-07-12,,,Full-Time,15,1967000.0,Active
+E0225,Female,21,Bachelor's,Sales,Sales Executive,2022-10-02,2026-08-16,Better Compensation,Full-Time,0,674000.0,Resigned
+E0226,Male,22,High School,Customer Support,Support Associate,2022-03-22,2026-09-26,Work-Life Balance,Full-Time,1,385000.0,Resigned
+E0227,Female,36,Bachelor's,Engineering,QA Engineer,2017-02-17,,,Contract,15,1802000.0,Active
+E0228,Female,36,Bachelor's,Marketing,Brand Manager,2026-05-08,,,Full-Time,14,1596000.0,Active
+E0229,Male,29,Master's,Engineering,Data Analyst,2026-01-19,,,Full-Time,6,2128000.0,Active
+E0230,Female,29,Bachelor's,Engineering,QA Engineer,2016-08-20,,,Full-Time,8,1499000.0,Active
+E0231,Male,43,Bachelor's,Sales,Sales Executive,2023-05-19,,,Contract,18,868000.0,Active
+E0232,Female,30,PhD,Sales,Account Manager,2022-12-11,,,Full-Time,8,1407000.0,Active
+E0233,Female,31,PhD,Operations,Logistics Coordinator,2026-09-15,,,Full-Time,11,1501000.0,Active
+E0234,Female,25,Bachelor's,Sales,Sales Manager,2020-09-02,,,Full-Time,1,1490000.0,Active
+E0235,Male,39,Master's,Customer Support,Support Lead,2024-04-22,2026-07-30,Career Growth,Full-Time,17,1323000.0,Resigned
+E0236,Female,35,Bachelor's,HR,HR Manager,2016-01-30,,,Full-Time,9,1405000.0,Active
+E0237,Male,41,Master's,HR,Recruiter,2024-07-29,,,Full-Time,14,,Active
+E0238,Female,24,Master's,Sales,Sales Executive,2022-07-11,,,Full-Time,0,685000.0,Active
+E0239,Female,34,Bachelor's,Engineering,Senior Engineer,2023-11-10,,,Contract,6,1412000.0,Active
+E0240,Female,39,Bachelor's,Operations,Operations Executive,2024-08-31,2025-09-12,Retirement,Full-Time,15,595000.0,Resigned
+E0241,Male,33,High School,Engineering,QA Engineer,2019-06-20,,,Full-Time,12,1424000.0,Active
+E0242,Female,41,Master's,Customer Support,Support Lead,2026-02-23,,,Full-Time,17,1300000.0,Active
+E0243,Male,28,High School,Finance,Financial Analyst,2023-11-29,,,Contract,3,1252000.0,Active
+E0244,Male,33,High School,Sales,Account Manager,2024-10-01,2026-01-18,Career Growth,Full-Time,12,1057000.0,Resigned
+E0245,Male,42,Bachelor's,Engineering,Data Analyst,2018-01-02,,,Full-Time,18,2234000.0,Active
+E0246,Male,25,Bachelor's,Engineering,DevOps Engineer,2018-06-16,,,Full-Time,0,1387000.0,Active
+E0247,Female,22,Bachelor's,Engineering,Senior Engineer,2022-07-31,,,Full-Time,0,889000.0,Active
+E0248,Male,22,High School,HR,Recruiter,2026-01-24,,,Contract,0,703000.0,Active
+E0249,Male,31,Master's,Customer Support,Support Associate,2018-01-04,2020-02-17,Career Growth,Full-Time,4,522000.0,Resigned
+E0250,Female,21,Master's,Engineering,QA Engineer,2025-06-16,2025-09-17,Personal Reasons,Full-Time,0,1513000.0,Resigned
+E0251,Male,40,Bachelor's,Customer Support,Support Lead,2025-08-26,2026-05-07,Work-Life Balance,Full-Time,13,913000.0,Resigned
+E0252,Male,31,PhD,Engineering,DevOps Engineer,2024-10-02,,,Full-Time,6,2071000.0,Active
+E0253,Female,23,Bachelor's,Sales,Account Manager,2021-02-12,,,Contract,0,969000.0,Active
+E0254,Female,26,Bachelor's,Sales,Sales Manager,2022-05-22,2024-05-01,Career Growth,Full-Time,1,1177000.0,Resigned
+E0255,Female,34,Bachelor's,HR,HR Executive,2024-12-30,,,Full-Time,10,655000.0,Active
+E0256,Female,22,Master's,Engineering,QA Engineer,2022-06-24,,,Full-Time,0,1651000.0,Active
+E0257,Female,42,Bachelor's,Marketing,Marketing Executive,2026-03-22,,,Full-Time,19,677000.0,Active
+E0258,Female,29,Master's,Engineering,Data Analyst,2023-03-29,,,Full-Time,4,1654000.0,Active
+E0259,Male,30,Bachelor's,Marketing,Marketing Executive,2019-08-31,2021-07-01,Career Growth,Full-Time,10,692000.0,Resigned
+E0260,Male,33,Bachelor's,HR,HR Manager,2025-11-27,,,Full-Time,7,1247000.0,Active
+E0261,Male,38,High School,HR,HR Executive,2016-11-04,,,Full-Time,16,564000.0,Active
+E0262,Male,41,Master's,Sales,Account Manager,2023-01-13,,,Full-Time,18,1271000.0,Active
+E0263,Male,38,Master's,Engineering,Data Analyst,2022-01-10,,,Full-Time,17,2464000.0,Active
+E0264,Female,21,Bachelor's,HR,HR Executive,2024-01-20,2026-03-06,Higher Studies,Full-Time,0,576000.0,Resigned
+E0265,Male,36,Bachelor's,Marketing,Brand Manager,2018-12-12,,,Full-Time,10,1327000.0,Active
+E0266,Female,41,Master's,Marketing,Content Specialist,2023-10-04,2025-01-18,Work-Life Balance,Full-Time,20,1400000.0,Resigned
+E0267,Male,21,Bachelor's,Sales,  Sales Executive ,2025-01-05,,,Full-Time,0,605000.0,Active
+E0268,Female,35,Master's,Engineering,QA Engineer,2022-01-20,,,Contract,11,1632000.0,Active
+E0269,Male,36,Bachelor's,Customer Support,Support Lead,2024-06-28,2026-04-27,Better Compensation,Full-Time,13,1043000.0,Resigned
+E0270,Female,24,Bachelor's,Engineering,Data Analyst,2026-05-02,2026-08-07,Career Growth,Full-Time,0,1674000.0,Resigned
+E0271,Male,30,Master's,Product,Product Analyst,2019-10-08,,,Full-Time,9,1329000.0,Active
+E0272,Male,24,Bachelor's,Engineering,Software Engineer,2024-06-18,,,Full-Time,0,973000.0,Active
+E0273,Female,21,Master's,HR,HR Manager,2024-05-26,,,Full-Time,0,1246000.0,Active
+E0274,Male,34,Bachelor's,HR,HR Manager,2023-10-25,,,Full-Time,10,1244000.0,Active
+E0275,Male,33,Master's,Operations,Logistics Coordinator,2024-04-22,,,Part-Time,9,1381000.0,Active
+E0276,Female,48,Bachelor's,Engineering,Senior Engineer,2026-04-09,,,Full-Time,21,1263000.0,Active
+E0277,Female,48,High School,Sales,Account Manager,2024-04-05,,,Part-Time,20,1155000.0,Active
+E0278,Male,34,Bachelor's,Sales,Account Manager,2026-02-09,,,Full-Time,13,1172000.0,Active
+E0279,Female,40,Master's,Marketing,Content Specialist,2024-05-29,,,Full-Time,16,,Active
+E0280,Male,42,Bachelor's,Customer Support,Support Associate,2015-07-18,2024-07-30,Poor Management,Contract,18,555000.0,Resigned
+E0281,Female,35,High School,Engineering,DevOps Engineer,2016-06-24,,,Full-Time,9,1325000.0,Active
+E0282,Female,45,Bachelor's,Marketing,Content Specialist,2022-04-17,,,Full-Time,22,1255000.0,Active
+E0283,Male,44,Master's,Sales,Sales Executive,2022-09-29,2025-06-26,Better Compensation,Full-Time,16,1037000.0,Resigned
+E0284,Male,52,Master's,Product,Product Manager,2016-01-01,2020-05-14,Retirement,Full-Time,28,3414000.0,Resigned
+E0285,Female,21,Bachelor's,Finance,Accountant,2021-04-26,,,Full-Time,0,665000.0,Active
+E0286,Female,21,Master's,Engineering,Senior Engineer,2023-03-21,2024-02-26,Work-Life Balance,Full-Time,0,1190000.0,Resigned
+E0287,Male,31,Master's,Product,Product Manager,2023-05-24,,,Full-Time,6,2733000.0,Active
+E0288,Female,26,High School,Sales,Sales Manager,2023-02-25,2025-08-05,Poor Management,Contract,0,1157000.0,Resigned
+E0289,Male,32,Bachelor's,Product,Product Manager,2022-05-26,,,Full-Time,8,2364000.0,Active
+E0290,Female,21,Bachelor's,SALES,Account Manager,2024-01-19,,,Contract,0,953000.0,Active
+E0291,Male,34,Bachelor's,Finance,Accountant,2015-09-05,,,Full-Time,7,797000.0,Active
+E0292,Male,50,Bachelor's,Customer Support,Support Lead,2025-01-06,2025-06-30,Career Growth,Full-Time,23,1170000.0,Resigned
+E0293,Female,29,Bachelor's,HR,HR Manager,2025-08-23,,,Contract,5,1347000.0,Active
+E0294,Male,34,Bachelor's,Engineering,Senior Engineer,2025-05-31,,,Full-Time,10,1272000.0,Active
+E0295,Male,38,High School,Finance,Accountant,2020-07-26,,,Full-Time,12,816000.0,Active
+E0296,Female,37,Bachelor's,Finance,Accountant,2026-02-10,2026-08-28,Career Growth,Full-Time,17,909000.0,Resigned
+E0297,Male,39,Bachelor's,Finance,Accountant,2021-05-10,,,Full-Time,14,869000.0,Active
+E0298,Male,23,Master's,Engineering,Data Analyst,2022-01-06,,,Full-Time,1,2032000.0,Active
+E0299,Male,38,Bachelor's,Engineering,QA Engineer,2022-03-14,,,Full-Time,14,1714000.0,Active
+E0300,Male,38,Bachelor's,Marketing,Marketing Executive,2023-07-10,,,Full-Time,14,772000.0,Active
+E0301,Female,34,Bachelor's,Marketing,Marketing Executive,2024-04-01,,,Full-Time,12,762000.0,Active
+E0302,Male,38,Bachelor's,Sales,Sales Executive,2021-04-28,,,Full-Time,16,831000.0,Active
+E0303,Female,27,PhD,Sales,Account Manager,2025-01-24,,,Full-Time,3,1323000.0,Active
+E0304,Male,42,Master's,Customer Support,Support Associate,2026-02-20,2026-07-20,Career Growth,Contract,19,628000.0,Resigned
+E0305,Female,29,Bachelor's,Engineering,QA Engineer,2024-11-30,,,Contract,3,1465000.0,Active
+E0306,Female,42,Bachelor's,Engineering,Software Engineer,2025-04-27,,,Full-Time,16,1185000.0,Active
+E0307,Male,27,Master's,Sales,Account Manager,2023-10-31,,,Full-Time,3,,Active
+E0308,female,25,Master's,Operations,Operations Executive,2016-11-04,,,Full-Time,1,645000.0,Active
+E0309,Male,42,Bachelor's,Product,Product Analyst,2022-07-05,,,Full-Time,20,1386000.0,Active
+E0310,Female,28,High School,Marketing,Brand Manager,2016-01-09,,,Full-Time,4,1162000.0,Active
+E0311,Male,21,High School,Sales,Sales Executive,2026-03-13,2026-08-09,Better Compensation,Full-Time,0,568000.0,Resigned
+E0312,Female,33,Bachelor's,Engineering,Senior Engineer,2025-07-14,,,Full-Time,11,1402000.0,Active
+E0313,Female,32,Bachelor's,Engineering,Software Engineer,2022-07-08,,,Full-Time,9,959000.0,Active
+E0314,Male,21,Master's,Operations,Operations Manager,2019-10-14,,,Contract,0,790000.0,Active
+E0315,Male,21,Master's,ENGINEERING,DevOps Engineer,2023-05-19,,,Contract,0,1739000.0,Active
+E0316,Male,25,Bachelor's,Sales,Sales Executive,2020-11-23,,,Full-Time,0,611000.0,Active
+E0317,Male,36,Master's,HR,Recruiter,2024-09-19,,,Full-Time,10,1123000.0,Active
+E0318,Female,31,High School,Sales,Sales Executive,2018-02-24,,,Full-Time,10,608000.0,Active
+E0319,Male,39,PhD,CUSTOMER SUPPORT,Support Associate,2023-06-30,,,Contract,13,659000.0,Active
+E0320,Non-binary,32,Bachelor's,Engineering,Senior Engineer,2026-09-15,,,Full-Time,10,1302000.0,Active
+E0321,Female,29,Bachelor's,HR,HR Manager,2023-12-22,,,Full-Time,3,1223000.0,Active
+E0322,Male,22,Bachelor's,Product,Product Manager,2015-08-19,,,Full-Time,0,2009000.0,Active
+E0323,Male,30,Master's,Sales,Account Manager,2016-12-27,2018-11-22,Work-Life Balance,Full-Time,5,1196000.0,Resigned
+E0324,Male,28,PhD,Operations,Operations Manager,2024-03-21,2025-04-24,Career Growth,Contract,4,1147000.0,Resigned
+E0325,Female,24,Master's,Finance,Financial Analyst,2022-12-23,,,Full-Time,0,1713000.0,Active
+E0326,Male,30,Master's,Engineering,Data Analyst,2023-08-27,,,Full-Time,6,2085000.0,Active
+E0327,Non-binary,34,Bachelor's,Marketing,Brand Manager,2022-03-08,,,Contract,11,1437000.0,Active
+E0328,Male,29,Bachelor's,Product,Product Analyst,2023-11-10,,,Contract,9,1206000.0,Active
+E0329,Female,49,Master's,Engineering,Software Engineer,2023-11-19,,,Full-Time,26,1522000.0,Active
+E0330,Male,28,Master's,Sales,Sales Executive,2024-05-09,,,Full-Time,3,758000.0,Active
+E0331,Female,32,Bachelor's,Sales,Sales Manager,2025-03-29,2026-09-03,Poor Management,Full-Time,7,1382000.0,Resigned
+E0332,Male,27,Bachelor's,Engineering,QA Engineer,2025-01-25,,,Contract,6,1472000.0,Active
+E0333,Female,23,High School,Operations,Logistics Coordinator,2019-11-14,,,Contract,2,836000.0,Active
+E0334,Female,33,Master's,Sales,Sales Manager,2018-02-27,2024-10-24,Poor Management,Full-Time,11,1646000.0,Resigned
+E0335,Female,37,Bachelor's,Engineering,Software Engineer,2023-02-13,2024-12-31,Personal Reasons,Full-Time,17,1044000.0,Resigned
+E0336,Female,33,Bachelor's,Engineering,DevOps Engineer,2021-02-06,,,Full-Time,8,1815000.0,Active
+E0337,Male,29,Bachelor's,Sales,Account Manager,2025-03-01,2026-05-21,Poor Management,Full-Time,6,1130000.0,Resigned
+E0338,Female,40,Bachelor's,Customer Support,Support Associate,2024-05-07,,,Full-Time,12,510000.0,Active
+E0339,Female,34,High School,Engineering,QA Engineer,2024-10-25,,,Full-Time,9,1328000.0,Active
+E0340,Male,38,Master's,Customer Support,Support Associate,2022-12-09,,,Full-Time,13,608000.0,Active
+E0341,Non-binary,26,Bachelor's,Sales,Sales Manager,2026-09-05,,,Contract,2,1373000.0,Active
+E0342,Female,30,Bachelor's,Operations,Operations Executive,2023-07-20,,,Full-Time,3,513000.0,Active
+E0343,Male,35,Bachelor's,Customer Support,Support Lead,2025-04-08,,,Full-Time,15,1082000.0,Active
+E0344,Female,27,Master's,Engineering,QA Engineer,2023-06-25,,,Full-Time,4,1567000.0,Active
+E0345,Female,34,Bachelor's,Engineering,DevOps Engineer,2022-03-21,,,Full-Time,7,1739000.0,Active
+E0346,Male,31,Master's,Finance,Financial Analyst,2023-09-13,,,Full-Time,9,1822000.0,Active
+E0347,Male,30,PhD,Marketing,Marketing Executive,2019-12-20,,,Full-Time,5,861000.0,Active
+E0348,Female,41,Bachelor's,Marketing,Marketing Executive,2024-09-19,,,Full-Time,16,762000.0,Active
+E0349,Male,37,Master's,Engineering,QA Engineer,2024-12-09,2025-09-22,Higher Studies,Full-Time,13,1894000.0,Resigned
+E0350,Female,29,Bachelor's,Engineering,Software Engineer,2023-07-16,,,Full-Time,6,1004000.0,Active
+E0351,Male,31,Bachelor's,Engineering,Software Engineer,2024-08-29,,,Full-Time,3,905000.0,Active
+E0352,Female,38,Master's,Operations,Operations Manager,2019-05-03,,,Contract,14,1135000.0,Active
+E0353,Male,28,Bachelor's,Operations,Logistics Coordinator,2024-11-17,,,Contract,6,1265000.0,Active
+E0354,Female,35,Master's,Marketing,Content Specialist,2022-01-18,,,Full-Time,14,1217000.0,Active
+E0355,Male,43,Bachelor's,Product,Product Manager,2017-10-29,,,Full-Time,19,2673000.0,Active
+E0356,Male,37,Bachelor's,HR,Recruiter,2026-09-24,,,Full-Time,13,1034000.0,Active
+E0357,Male,24,Bachelor's,Sales,Sales Manager,2025-08-04,,,Full-Time,2,1312000.0,Active
+E0358,Male,25,Bachelor's,Finance,Financial Analyst,2015-08-21,,,Full-Time,0,1501000.0,Active
+E0359,Non-binary,27,Master's,Engineering,Software Engineer,2019-09-11,,,Full-Time,2,1094000.0,Active
+E0360,Male,31,Master's,Marketing,Brand Manager,2025-11-06,,,Full-Time,7,1447000.0,Active
+E0361,Female,21,Bachelor's,Operations,Operations Manager,2025-02-17,,,Full-Time,0,720000.0,Active
+E0362,Female,31,Master's,Finance,Accountant,2023-04-01,,,Full-Time,9,953000.0,Active
+E0363,Male,35,Bachelor's,Operations,  Operations Manager ,2024-08-21,,,Full-Time,14,945000.0,Active
+E0364,Male,24,Bachelor's,Operations,Operations Executive,2019-04-13,,,Full-Time,0,591000.0,Active
+E0365,Male,35,PhD,Operations,Operations Executive,2024-07-26,,,Full-Time,12,832000.0,Active
+E0366,Non-binary,36,Bachelor's,Finance,Financial Analyst,2015-08-26,,,Full-Time,14,1869000.0,Active
+E0367,Female,28,Bachelor's,Finance,Accountant,2021-11-21,,,Contract,4,815000.0,Active
+E0368,Female,44,Bachelor's,Sales,Sales Executive,2023-10-22,,,Full-Time,19,908000.0,Active
+E0369,Male,23,Bachelor's,Engineering,QA Engineer,2023-09-19,2024-02-02,Career Growth,Full-Time,0,1295000.0,Resigned
+E0370,Female,36,Bachelor's,Finance,Financial Analyst,2020-06-30,,,Contract,14,1695000.0,Active
+E0371,Female,38,Bachelor's,HR,HR Executive,2015-03-31,2016-04-30,Career Growth,Full-Time,12,654000.0,Resigned
+E0372,Male,46,Bachelor's,Finance,Accountant,2015-03-22,,,Full-Time,23,995000.0,Active
+E0373,Female,50,Bachelor's,Sales,Sales Manager,2015-02-08,2021-05-28,Work-Life Balance,Full-Time,26,1823000.0,Resigned
+E0374,Male,38,Master's,Operations,Logistics Coordinator,2016-03-11,,,Full-Time,11,1447000.0,Active
+E0375,Male,32,PhD,Engineering,Data Analyst,2022-11-25,,,Contract,8,2528000.0,Active
+E0376,Male,32,Bachelor's,Marketing,Content Specialist,2022-08-15,,,Full-Time,7,943000.0,Active
+E0377,Female,36,High School,Engineering,Data Analyst,2025-08-12,,,Full-Time,12,2014000.0,Active
+E0378,Female,34,Master's,Engineering,Senior Engineer,2025-10-18,2026-02-08,Better Compensation,Full-Time,8,1270000.0,Resigned
+E0379,Male,29,Bachelor's,Marketing,Content Specialist,2026-02-10,,,Full-Time,6,1062000.0,Active
+E0380,Male,39,PhD,Engineering,DevOps Engineer,2024-09-06,,,Full-Time,13,2552000.0,Active
+E0381,Female,42,PhD,Engineering,Software Engineer,2021-08-16,,,Full-Time,15,1533000.0,Active
+E0382,Female,45,Bachelor's,Sales,Account Manager,2026-01-29,,,Contract,21,1351000.0,Active
+E0383,Male,41,Bachelor's,Sales,Sales Executive,2025-10-20,,,Full-Time,15,840000.0,Active
+E0384,Female,47,Bachelor's,Customer Support,Support Lead,2024-06-05,,,Full-Time,25,1192000.0,Active
+E0385,Female,42,Master's,Engineering,Data Analyst,2016-10-04,,,Part-Time,16,2680000.0,Active
+E0386,Male,44,Bachelor's,Engineering,DevOps Engineer,2020-09-07,,,Full-Time,22,2090000.0,Active
+E0387,Female,28,Bachelor's,HR,HR Executive,2024-10-17,,,Full-Time,5,575000.0,Active
+E0388,Female,22,Bachelor's,Engineering,DevOps Engineer,2016-01-08,,,Contract,0,1637000.0,Active
+E0389,Male,36,Master's,Customer Support,Support Lead,2017-07-02,,,Full-Time,13,1207000.0,Active
+E0390,Male,32,Master's,Customer Support,Support Lead,2023-03-31,,,Part-Time,9,1255000.0,Active
+E0391,Male,36,Bachelor's,Product,Product Manager,2016-11-03,2025-02-15,Relocation,Full-Time,11,2109000.0,Resigned
+E0392,Female,25,Bachelor's,Engineering,Senior Engineer,2024-07-25,2025-12-21,Better Compensation,Full-Time,2,1178000.0,Resigned
+E0393,Male,30,Master's,Marketing,Marketing Executive,2024-10-29,,,Full-Time,5,688000.0,Active
+E0394,Male,30,Master's,Finance,Financial Analyst,2022-12-29,,,Full-Time,6,1874000.0,Active
+E0395,Male,39,Bachelor's,Engineering,Data Analyst,2024-05-07,,,Full-Time,14,2319000.0,Active
+E0396,Male,42,PhD,Engineering,QA Engineer,2019-08-18,,,Full-Time,17,2343000.0,Active
+E0397,Male,54,Bachelor's,Sales,Sales Manager,2025-02-07,2026-03-23,Work-Life Balance,Contract,31,2036000.0,Resigned
+E0398,Female,22,Bachelor's,Engineering,Senior Engineer,2016-04-17,,,Contract,0,1232000.0,Active
+E0399,Male,43,Master's,Finance,Financial Analyst,2016-03-12,,,Full-Time,20,2044000.0,Active
+E0400,Male,37,Master's,Engineering,QA Engineer,2017-10-23,,,Full-Time,14,2030000.0,Active
+E0401,Female,38,High School,Sales,Sales Manager,2021-04-20,,,Full-Time,16,1416000.0,Active
+E0402,Female,28,Bachelor's,HR,HR Manager,2024-03-04,,,Full-Time,5,1053000.0,Active
+E0403,male,28,Master's,Customer Support,Support Associate,2024-06-26,,,Full-Time,6,543000.0,Active
+E0404,Female,35,Bachelor's,Marketing,Brand Manager,2023-02-01,,,Full-Time,13,1455000.0,Active
+E0405,Male,26,Bachelor's,Product,Product Analyst,2022-09-24,,,Full-Time,5,1081000.0,Active
+E0406,Male,38,Master's,Sales,Sales Manager,2025-05-07,,,Full-Time,14,1528000.0,Active
+E0407,Female,28,Bachelor's,Operations,Operations Manager,2026-05-25,,,Full-Time,2,809000.0,Active
+E0408,Male,35,Bachelor's,HR,HR Executive,2017-06-25,,,Full-Time,11,667000.0,Active
+E0409,Non-binary,45,Bachelor's,Sales,Sales Manager,2025-08-22,2026-05-16,Poor Management,Full-Time,24,2002000.0,Resigned
+E0410,Male,32,Master's,Customer Support,Support Associate,2022-08-21,2024-06-20,Better Compensation,Full-Time,7,554000.0,Resigned
+E0411,Male,31,Bachelor's,Customer Support,Support Lead,2023-10-19,2024-04-24,Better Compensation,Full-Time,4,945000.0,Resigned
+E0412,Female,46,Bachelor's,Engineering,Software Engineer,2019-10-04,,,Part-Time,22,1149000.0,Active
+E0413,Female,22,Bachelor's,Finance,Financial Analyst,2022-11-11,,,Full-Time,0,1403000.0,Active
+E0414,Female,23,Bachelor's,Engineering,QA Engineer,2017-11-25,,,Full-Time,0,1164000.0,Active
+E0415,Female,38,Bachelor's,Engineering,Software Engineer,2026-03-29,,,Full-Time,14,1147000.0,Active
+E0416,Male,37,Master's,Customer Support,Support Lead,2019-11-28,,,Full-Time,13,1249000.0,Active
+E0417,Female,34,Bachelor's,Sales,Sales Manager,2025-01-22,2026-05-09,Poor Management,Part-Time,10,1609000.0,Resigned
+E0418,Female,30,High School,Engineering,Software Engineer,2022-06-24,,,Full-Time,5,765000.0,Active
+E0419,Male,30,Bachelor's,Engineering,Data Analyst,2023-06-02,2023-12-20,Higher Studies,Contract,6,1897000.0,Resigned
+E0420,Male,38,Bachelor's,Product,Product Manager,2023-05-29,,,Full-Time,18,2635000.0,Active
+E0421,Female,34,Bachelor's,Product,Product Manager,2021-12-12,,,Full-Time,13,2336000.0,Active
+E0422,Male,33,Master's,Customer Support,Support Lead,2026-07-13,,,Full-Time,7,1107000.0,Active
+E0423,Female,22,Master's,Sales,Sales Executive,2019-01-12,,,Full-Time,0,758000.0,Active
+E0424,Male,47,Bachelor's,Sales,Account Manager,2022-06-17,,,Full-Time,24,1363000.0,Active
+E0425,Female,27,Master's,Customer Support,Support Lead,2022-02-08,,,Full-Time,3,1039000.0,Active
+E0426,Female,34,Master's,Finance,Accountant,2025-01-10,2026-05-16,Better Compensation,Full-Time,11,953000.0,Resigned
+E0427,Male,32,Bachelor's,Finance,Financial Analyst,2019-01-30,2022-01-02,Higher Studies,Full-Time,5,1567000.0,Resigned
+E0428,Male,39,Master's,Customer Support,Support Associate,2021-05-08,,,Contract,11,584000.0,Active
+E0429,Male,40,Master's,Finance,Financial Analyst,2023-04-20,,,Full-Time,18,2349000.0,Active
+E0430,Male,38,Master's,Marketing,Brand Manager,2024-07-20,2026-08-13,Career Growth,Full-Time,17,1999000.0,Resigned
+E0431,Male,35,Master's,Customer Support,Support Lead,2022-12-23,,,Full-Time,8,1022000.0,Active
+E0432,Male,30,Bachelor's,Marketing,Marketing Executive,2024-11-23,,,Part-Time,3,640000.0,Active
+E0433,Male,35,Master's,Customer Support,Support Lead,2024-06-19,2026-02-25,Poor Management,Full-Time,13,1125000.0,Resigned
+E0434,Female,40,Master's,Sales,Sales Manager,2023-11-08,,,Full-Time,17,1988000.0,Active
+E0435,Male,30,High School,Engineering,DevOps Engineer,2022-11-26,,,Full-Time,9,1590000.0,Active
+E0436,Female,31,Bachelor's,Customer Support,Support Associate,2024-04-10,,,Part-Time,3,442000.0,Active
+E0437,Male,40,Master's,Finance,Financial Analyst,2024-08-23,,,Part-Time,14,1891000.0,Active
+E0438,Male,44,Bachelor's,Customer Support,Support Associate,2018-11-04,,,Full-Time,20,537000.0,Active
+E0439,Male,48,Bachelor's,Sales,Sales Executive,2024-10-29,,,Full-Time,21,941000.0,Active
+E0440,Female,30,Bachelor's,Engineering,Data Analyst,2026-03-21,,,Contract,8,1949000.0,Active
+E0441,Female,44,Master's,Customer Support,Support Associate,2024-12-05,2026-08-29,Career Growth,Full-Time,18,652000.0,Resigned
+E0442,Female,33,Bachelor's,Finance,Financial Analyst,2025-11-27,2026-06-27,Relocation,Contract,9,1781000.0,Resigned
+E0443,Male,33,Master's,Engineering,Data Analyst,2015-01-30,,,Full-Time,8,2472000.0,Active
+E0444,Male,23,Master's,Sales,Sales Executive,2022-11-13,,,Full-Time,0,663000.0,Active
+E0445,Female,31,Bachelor's,Operations,Operations Manager,2024-03-24,,,Full-Time,8,792000.0,Active
+E0446,Non-binary,37,Bachelor's,Sales,Sales Manager,2026-05-05,,,Part-Time,11,1586000.0,Active
+E0447,Female,34,Bachelor's,Marketing,Brand Manager,2022-07-25,,,Full-Time,13,1643000.0,Active
+E0448,Female,38,Bachelor's,Customer Support,Support Associate,2016-01-09,,,Full-Time,13,,Active
+E0449,Male,24,Bachelor's,Engineering,QA Engineer,2024-03-31,,,Full-Time,0,1441000.0,Active
+E0450,Female,31,Master's,Product,Product Analyst,2024-06-18,,,Full-Time,8,1318000.0,Active
+E0451,Male,35,Master's,Sales,Sales Executive,2025-06-13,,,Full-Time,14,860000.0,Active
+E0452,Male,26,Bachelor's,Marketing,Marketing Executive,2025-10-03,,,Full-Time,2,580000.0,Active
+E0453,Female,21,Master's,Engineering,Software Engineer,2025-02-19,,,Full-Time,0,1005000.0,Active
+E0454,Male,27,Bachelor's,Customer Support,Support Associate,2016-12-17,,,Full-Time,4,488000.0,Active
+E0455,Female,26,Master's,Customer Support,Support Lead,2025-01-06,,,Full-Time,0,,Active
+E0456,Female,29,Master's,Customer Support,Support Associate,2024-08-01,,,Full-Time,1,502000.0,Active
+E0457,Male,21,Master's,Sales,Sales Executive,2018-12-17,,,Full-Time,0,755000.0,Active
+E0458,Female,27,Bachelor's,Engineering,QA Engineer,2022-06-05,,,Full-Time,0,1308000.0,Active
+E0459,Female,36,Bachelor's,Operations,Operations Manager,2023-01-25,,,Full-Time,11,794000.0,Active
+E0460,Male,50,Bachelor's,Engineering,Senior Engineer,2022-11-16,2023-07-24,Work-Life Balance,Full-Time,27,1675000.0,Resigned
+E0461,Male,36,Master's,Customer Support,Support Associate,2021-06-11,,,Contract,11,529000.0,Active
+E0462,Female,38,Bachelor's,Operations,Operations Manager,2020-11-23,,,Full-Time,11,906000.0,Active
+E0463,Male,38,Master's,Sales,Sales Manager,2020-10-23,,,Full-Time,12,1715000.0,Active
+E0464,Male,37,Bachelor's,Marketing,Content Specialist,2023-06-16,,,Full-Time,13,1141000.0,Active
+E0465,Male,37,Bachelor's,SALES,Sales Manager,2024-05-08,,,Full-Time,12,1620000.0,Active
+E0466,Female,48,Bachelor's,Sales,Sales Manager,2016-02-14,,,Part-Time,22,1654000.0,Active
+E0467,Male,37,Bachelor's,Engineering,Senior Engineer,2022-10-03,,,Full-Time,13,1391000.0,Active
+E0468,Female,41,Bachelor's,Customer Support,Support Lead,2025-11-15,,,Full-Time,18,1173000.0,Active
+E0469,Male,29,Master's,Customer Support,Support Lead,2025-02-15,2025-12-12,Better Compensation,Contract,7,989000.0,Resigned
+E0470,Male,37,Bachelor's,Engineering,Data Analyst,2023-08-06,,,Full-Time,12,1941000.0,Active
+E0471,Male,22,Master's,Finance,Financial Analyst,2016-08-16,,,Contract,0,1466000.0,Active
+E0472,Female,36,Bachelor's,Sales,Sales Manager,2016-10-25,,,Full-Time,14,1706000.0,Active
+E0473,Male,25,Bachelor's,Engineering,DevOps Engineer,2024-01-14,,,Full-Time,0,1474000.0,Active
+E0474,Male,25,Bachelor's,Engineering,Software Engineer,2015-11-24,2017-04-18,Better Compensation,Contract,3,1043000.0,Resigned
+E0475,Male,34,High School,Sales,Sales Executive,2022-06-20,2023-08-02,Better Compensation,Full-Time,11,591000.0,Resigned
+E0476,Male,25,Bachelor's,Engineering,QA Engineer,2022-12-16,2025-03-15,Higher Studies,Full-Time,2,1428000.0,Resigned
+E0477,Female,41,Master's,Sales,Sales Manager,2021-01-17,,,Full-Time,19,1832000.0,Active
+E0478,Female,37,Bachelor's,Operations,Operations Manager,2018-11-23,,,Full-Time,11,1028000.0,Active
+E0479,Male,21,Bachelor's,Sales,Account Manager,2026-04-02,2026-08-30,Poor Management,Full-Time,0,924000.0,Resigned
+E0480,Male,42,High School,Finance,Financial Analyst,2017-08-05,,,Full-Time,19,1711000.0,Active
+E0481,Male,32,Bachelor's,Operations,Operations Manager,2024-03-09,,,Full-Time,8,831000.0,Active
+E0482,Female,42,Bachelor's,Customer Support,Support Lead,2024-04-25,2025-05-16,Better Compensation,Full-Time,20,1049000.0,Resigned
+E0483,Male,21,Bachelor's,Marketing,Content Specialist,2020-12-31,,,Full-Time,0,873000.0,Active
+E0484,Male,39,Master's,Engineering,DevOps Engineer,2020-07-14,,,Full-Time,14,2319000.0,Active
+E0485,Female,33,Bachelor's,HR,Recruiter,2016-08-21,,,Full-Time,10,1032000.0,Active
+E0486,Female,35,Master's,Engineering,QA Engineer,2017-10-16,,,Full-Time,12,1883000.0,Active
+E0487,Male,36,Master's,Engineering,DevOps Engineer,2023-03-03,,,Contract,10,2163000.0,Active
+E0488,Male,28,Bachelor's,Operations,Operations Executive,2024-12-02,2026-01-01,Better Compensation,Contract,4,510000.0,Resigned
+E0489,Male,21,PhD,Operations,Operations Executive,2022-01-31,,,Full-Time,0,686000.0,Active
+E0490,Male,34,High School,Sales,Sales Executive,2024-08-31,2025-02-28,Career Growth,Full-Time,7,609000.0,Resigned
+E0491,Male,38,High School,Sales,Sales Manager,2021-01-05,2022-07-25,Career Growth,Full-Time,16,1404000.0,Resigned
+E0492,Male,44,Master's,Sales,Account Manager,2026-01-23,2026-05-03,Poor Management,Full-Time,22,1716000.0,Resigned
+E0493,Female,33,Bachelor's,Marketing,Marketing Executive,2020-04-02,,,Part-Time,9,693000.0,Active
+E0494,Male,35,Bachelor's,Engineering,Data Analyst,2019-02-12,2026-07-08,Poor Management,Full-Time,10,2326000.0,Resigned
+E0495,female,28,Master's,Operations,Logistics Coordinator,2015-09-17,2023-08-14,Poor Management,Full-Time,0,1248000.0,Resigned
+E0496,Male,29,Bachelor's,Customer Support,Support Lead,2015-10-01,,,Full-Time,8,921000.0,Active
+E0497,Male,37,Bachelor's,Operations,Operations Executive,2019-05-11,,,Full-Time,11,618000.0,Active
+E0498,Female,32,Bachelor's,Engineering,QA Engineer,2017-05-04,,,Full-Time,9,1609000.0,Active
+E0499,Female,35,Bachelor's,Marketing,Content Specialist,2024-01-26,,,Full-Time,11,1071000.0,Active
+E0500,Male,27,High School,Engineering,QA Engineer,2022-07-27,,,Full-Time,6,1269000.0,Active
+E0501,Female,33,Bachelor's,Customer Support,Support Associate,2025-02-17,,,Full-Time,9,499000.0,Active
+E0502,Female,33,Master's,Marketing,Brand Manager,2017-01-08,,,Full-Time,6,1348000.0,Active
+E0503,Female,38,Master's,Product,Product Manager,2023-10-27,,,Part-Time,16,2881000.0,Active
+E0504,Male,33,Bachelor's,Sales,Sales Executive,2026-03-05,2026-07-30,Poor Management,Full-Time,9,733000.0,Resigned
+E0505,Non-binary,41,Bachelor's,Product,Product Analyst,2018-05-15,,,Full-Time,17,1148000.0,Active
+E0506,Male,28,Master's,Finance,Financial Analyst,2025-03-16,2026-02-04,Career Growth,Full-Time,5,1798000.0,Resigned
+E0507,Male,37,Bachelor's,Sales,Sales Manager,2021-05-25,,,Full-Time,10,1635000.0,Active
+E0508,Male,24,Master's,Engineering,QA Engineer,2025-11-13,,,Full-Time,0,1494000.0,Active
+E0509,Female,30,Master's,Marketing,Marketing Executive,2015-08-18,,,Full-Time,6,710000.0,Active
+E0510,Female,36,Master's,Operations,Operations Executive,2025-07-22,,,Full-Time,9,627000.0,Active
+E0511,Male,34,Bachelor's,Customer Support,Support Lead,2019-05-29,,,Full-Time,7,937000.0,Active
+E0512,Male,27,Bachelor's,Engineering,DevOps Engineer,2015-12-05,,,Full-Time,4,1581000.0,Active
+E0513,Male,36,Bachelor's,Sales,Sales Executive,2026-04-10,,,Full-Time,12,885000.0,Active
+E0514,Female,23,Bachelor's,Sales,Sales Manager,2023-05-20,,,Full-Time,0,1225000.0,Active
+E0515,Male,41,Bachelor's,Operations,Operations Executive,2023-01-26,,,Full-Time,19,674000.0,Active
+E0516,Female,35,PhD,Finance,Accountant,2024-06-24,2025-05-19,Better Compensation,Full-Time,8,1032000.0,Resigned
+E0517,Male,31,Bachelor's,Finance,Accountant,2022-10-30,2023-09-12,Career Growth,Full-Time,9,784000.0,Resigned
+E0518,Male,29,Bachelor's,Sales,Sales Manager,2023-06-14,,,Full-Time,5,1428000.0,Active
+E0519,Female,26,Bachelor's,Engineering,Software Engineer,2023-06-08,,,Full-Time,4,913000.0,Active
+E0520,Male,32,Master's,Engineering,DevOps Engineer,2023-07-10,,,Full-Time,10,2368000.0,Active
+E0521,Non-binary,24,Bachelor's,Operations,Logistics Coordinator,2025-12-24,,,Full-Time,3,1077000.0,Active
+E0522,Male,38,Bachelor's,Customer Support,Support Associate,2025-12-30,2026-08-12,Career Growth,Full-Time,16,496000.0,Resigned
+E0523,Male,23,Bachelor's,Engineering,QA Engineer,2024-10-23,,,Full-Time,0,1192000.0,Active
+E0524,Female,34,Master's,Operations,Operations Executive,2018-10-31,2023-05-13,Poor Management,Full-Time,7,671000.0,Resigned
+E0525,Male,35,Bachelor's,Operations,Logistics Coordinator,2018-07-03,,,Full-Time,7,1102000.0,Active
+E0526,Female,28,Bachelor's,Engineering,Senior Engineer,2016-07-19,,,Contract,6,1352000.0,Active
+E0527,Female,35,Master's,Sales,Sales Executive,2015-10-05,,,Full-Time,10,860000.0,Active
+E0528,Female,37,Master's,Operations,Operations Executive,2024-04-27,,,Part-Time,11,705000.0,Active
+E0529,Female,26,Bachelor's,Marketing,Brand Manager,2017-01-26,,,Full-Time,2,1082000.0,Active
+E0530,Male,28,Bachelor's,Customer Support,Support Associate,2015-11-22,2025-08-16,Work-Life Balance,Full-Time,5,458000.0,Resigned
+E0531,Male,36,Bachelor's,Operations,Operations Manager,2019-08-01,,,Contract,12,896000.0,Active
+E0532,male,28,Master's,Engineering,Senior Engineer,2024-06-18,,,Full-Time,0,1259000.0,Active
+E0533,Female,38,Bachelor's,Sales,Sales Executive,2026-08-16,,,Contract,13,848000.0,Active
+E0534,Male,23,Bachelor's,Customer Support,Support Associate,2022-03-28,,,Full-Time,0,392000.0,Active
+E0535,Female,28,Bachelor's,Finance,Financial Analyst,2018-04-07,,,Part-Time,2,1551000.0,Active
+E0536,Female,34,Bachelor's,Sales,Account Manager,2022-10-19,,,Full-Time,8,1052000.0,Active
+E0537,Female,37,Master's,Engineering,Data Analyst,2019-08-21,,,Full-Time,12,2655000.0,Active
+E0538,Male,26,Master's,Finance,Accountant,2016-11-02,2025-01-01,Poor Management,Full-Time,2,812000.0,Resigned
+E0539,Non-binary,36,Master's,Customer Support,Support Lead,2022-11-24,,,Full-Time,10,1276000.0,Active
+E0540,Female,27,Bachelor's,Engineering,QA Engineer,2016-08-15,2020-04-27,Career Growth,Full-Time,4,1384000.0,Resigned
+E0541,Female,33,Bachelor's,Sales,Sales Manager,2022-01-08,2025-01-21,Higher Studies,Full-Time,9,1511000.0,Resigned
+E0542,Female,33,Bachelor's,Operations,Operations Executive,2024-06-23,2026-04-04,Career Growth,Full-Time,12,654000.0,Resigned
+E0543,Male,34,High School,HR,HR Executive,2022-03-17,,,Full-Time,9,523000.0,Active
+E0544,Male,25,Bachelor's,Operations,Operations Manager,2016-12-31,,,Full-Time,3,714000.0,Active
+E0545,Female,25,Bachelor's,Marketing,Brand Manager,2026-03-15,2026-09-19,Career Growth,Full-Time,0,1138000.0,Resigned
+E0546,Female,29,Master's,Sales,Sales Executive,2020-04-12,,,Full-Time,6,775000.0,Active
+E0547,female,35,Master's,Sales,Sales Executive,2020-12-06,,,Contract,13,953000.0,Active
+E0548,Female,24,Bachelor's,Product,Product Manager,2021-06-13,2024-11-06,Poor Management,Full-Time,0,2072000.0,Resigned
+E0549,Male,35,Master's,Customer Support,Support Associate,2017-03-03,2022-08-18,Poor Management,Part-Time,15,547000.0,Resigned
+E0550,Male,31,Bachelor's,HR,Recruiter,2025-07-29,2026-02-07,Work-Life Balance,Full-Time,9,1070000.0,Resigned
+E0551,Male,31,Bachelor's,Engineering,QA Engineer,2018-09-27,,,Full-Time,7,1454000.0,Active
+E0552,Female,35,Bachelor's,Product,Product Analyst,2024-09-08,,,Full-Time,12,1091000.0,Active
+E0553,Female,32,Bachelor's,Customer Support,Support Lead,2022-04-25,,,Full-Time,7,904000.0,Active
+E0554,Male,29,Bachelor's,Customer Support,Support Associate,2026-06-18,2026-09-18,Poor Management,Contract,5,469000.0,Resigned
+E0555,Male,30,Bachelor's,Customer Support,Support Associate,2026-05-22,,,Full-Time,6,435000.0,Active
+E0556,Female,38,Bachelor's,Engineering,DevOps Engineer,2026-08-26,,,Full-Time,14,1966000.0,Active
+E0557,Male,36,Master's,HR,HR Executive,2020-05-30,,,Full-Time,12,700000.0,Active
+E0558,Male,34,Master's,Customer Support,Support Lead,2026-08-11,,,Full-Time,6,1006000.0,Active
+E0559,Female,28,Bachelor's,Finance,Financial Analyst,2018-06-27,,,Full-Time,5,1615000.0,Active
+E0560,Female,42,Bachelor's,Sales,Sales Executive,2022-02-16,,,Full-Time,17,848000.0,Active
+E0561,Male,31,Bachelor's,Engineering,QA Engineer,2022-08-29,2024-06-09,Better Compensation,Contract,6,1388000.0,Resigned
+E0562,Male,23,Bachelor's,Customer Support,Support Associate,2016-08-02,,,Full-Time,1,451000.0,Active
+E0563,Male,38,Bachelor's,Sales,Account Manager,2015-07-26,,,Full-Time,16,1344000.0,Active
+E0564,Female,26,Bachelor's,Sales,Sales Manager,2025-12-03,2026-09-28,Better Compensation,Full-Time,0,1394000.0,Resigned
+E0565,Male,32,Bachelor's,Engineering,DevOps Engineer,2025-12-01,2026-05-19,Work-Life Balance,Full-Time,6,1708000.0,Resigned
+E0566,Male,35,Master's,Sales,Sales Executive,2023-06-13,,,Full-Time,9,872000.0,Active
+E0567,Male,32,Bachelor's,Marketing,Content Specialist,2023-12-21,,,Full-Time,7,1039000.0,Active
+E0568,Male,37,Bachelor's,Finance,Accountant,2022-08-08,,,Full-Time,13,914000.0,Active
+E0569,Male,45,Bachelor's,Sales,Account Manager,2025-01-27,,,Full-Time,22,1308000.0,Active
+E0570,Female,35,Bachelor's,Sales,Sales Manager,2026-06-01,2026-09-03,Relocation,Part-Time,13,1497000.0,Resigned
+E0571,Female,30,Bachelor's,Engineering,Data Analyst,2022-12-27,2023-11-04,Work-Life Balance,Full-Time,4,1753000.0,Resigned
+E0572,Female,29,Bachelor's,HR,Recruiter,2016-07-23,,,Full-Time,3,1021000.0,Active
+E0573,Male,33,Bachelor's,Engineering,Senior Engineer,2024-07-04,,,Part-Time,11,1263000.0,Active
+E0574,Female,47,Bachelor's,Sales,Sales Manager,2023-12-07,,,Full-Time,24,1966000.0,Active
+E0575,Female,44,High School,Operations,Operations Manager,2022-01-02,,,Part-Time,19,958000.0,Active
+E0576,Female,32,Bachelor's,Operations,Operations Executive,2025-12-28,,,Full-Time,7,622000.0,Active
+E0577,Male,31,Bachelor's,Engineering,Senior Engineer,2026-09-17,,,Contract,5,1166000.0,Active
+E0578,Female,39,High School,Marketing,Marketing Executive,2020-06-16,2022-03-30,Work-Life Balance,Full-Time,14,,Resigned
+E0579,Male,25,Bachelor's,Sales,Sales Manager,2020-09-17,,,Full-Time,0,1265000.0,Active
+E0580,Male,27,Bachelor's,Sales,Sales Executive,2026-02-05,,,Full-Time,5,692000.0,Active
+E0581,Non-binary,38,Bachelor's,Operations,Logistics Coordinator,2025-12-14,2026-07-15,Personal Reasons,Full-Time,16,1389000.0,Resigned
+E0582,Male,36,Bachelor's,Finance,Financial Analyst,2022-07-01,,,Full-Time,14,1686000.0,Active
+E0583,Male,30,Master's,Product,Product Analyst,2025-06-09,,,Full-Time,9,1357000.0,Active
+E0584,Male,41,Bachelor's,Engineering,DevOps Engineer,2024-05-12,,,Full-Time,19,1826000.0,Active
+E0585,Female,29,Master's,Sales,Sales Executive,2021-04-27,,,Full-Time,4,714000.0,Active
+E0586,Female,36,Master's,Engineering,QA Engineer,2015-12-04,,,Full-Time,15,1829000.0,Active
+E0587,Male,36,Bachelor's,Engineering,QA Engineer,2025-05-21,,,Full-Time,13,1648000.0,Active
+E0588,Male,40,Master's,Marketing,Content Specialist,2024-09-20,,,Part-Time,19,1373000.0,Active
+E0589,Female,23,PhD,Sales,Sales Executive,2026-09-12,,,Full-Time,0,692000.0,Active
+E0590,Male,24,Bachelor's,Marketing,Brand Manager,2023-12-08,,,Full-Time,1,1011000.0,Active
+E0591,Male,34,Bachelor's,Engineering,Senior Engineer,2026-03-21,,,Full-Time,7,1210000.0,Active
+E0592,Female,33,Bachelor's,Sales,Account Manager,2020-01-13,,,Full-Time,9,1125000.0,Active
+E0593,Female,28,Bachelor's,Engineering,Data Analyst,2025-08-28,,,Full-Time,5,1913000.0,Active
+E0594,Female,31,Bachelor's,Marketing,Content Specialist,2021-08-08,,,Contract,9,983000.0,Active
+E0595,Female,35,Master's,Sales,Sales Executive,2016-02-05,,,Full-Time,10,849000.0,Active
+E0596,Female,26,High School,Sales,Sales Executive,2021-08-30,,,Full-Time,2,531000.0,Active
+E0597,Female,39,Bachelor's,Engineering,Data Analyst,2025-03-05,,,Full-Time,15,2127000.0,Active
+E0598,Female,29,Bachelor's,Sales,Sales Executive,2019-10-15,,,Full-Time,3,682000.0,Active
+E0599,Male,29,Bachelor's,Engineering,DevOps Engineer,2023-06-27,,,Full-Time,7,1733000.0,Active
+E0600,Female,40,Bachelor's,Operations,Logistics Coordinator,2021-01-23,,,Contract,17,1455000.0,Active
+E0601,Male,21,High School,Finance,Accountant,2026-05-11,2026-09-09,Better Compensation,Full-Time,0,644000.0,Resigned
+E0602,Male,35,Bachelor's,Operations,Logistics Coordinator,2019-05-22,2025-02-18,Poor Management,Full-Time,11,1351000.0,Resigned
+E0603,Male,32,Bachelor's,Finance,Accountant,2026-08-03,,,Full-Time,5,756000.0,Active
+E0604,Male,35,Master's,Product,Product Manager,2025-08-18,,,Part-Time,15,2920000.0,Active
+E0605,Male,25,Master's,Sales,Account Manager,2021-03-21,,,Full-Time,1,1162000.0,Active
+E0606,Female,36,Master's,Sales,Account Manager,2022-06-23,2023-10-21,Better Compensation,Full-Time,12,,Resigned
+E0607,Male,27,Bachelor's,Sales,Sales Manager,2026-07-21,,,Full-Time,1,1278000.0,Active
+E0608,Male,28,Master's,Sales,Account Manager,2020-11-12,,,Part-Time,1,1234000.0,Active
+E0609,Male,34,Master's,Customer Support,Support Associate,2015-03-20,,,Full-Time,7,576000.0,Active
+E0610,Female,40,High School,Engineering,Senior Engineer,2026-08-08,,,Full-Time,16,1039000.0,Active
+E0611,Female,27,Bachelor's,HR,HR Executive,2022-05-10,,,Contract,3,593000.0,Active
+E0612,Female,24,Bachelor's,Marketing,Content Specialist,2023-10-21,,,Full-Time,0,897000.0,Active
+E0613,Male,25,Master's,Engineering,Senior Engineer,2022-12-04,,,Full-Time,0,1314000.0,Active
+E0614,Male,21,Bachelor's,Engineering,Data Analyst,2022-06-15,2023-03-14,Work-Life Balance,Full-Time,1,1683000.0,Resigned
+E0615,Female,27,Master's,Sales,Sales Manager,2023-02-27,,,Full-Time,5,1701000.0,Active
+E0616,Female,33,Master's,Operations,  Logistics Coordinator ,2025-06-07,,,Full-Time,11,1409000.0,Active
+E0617,Non-binary,28,Bachelor's,Engineering,Senior Engineer,2025-06-21,,,Contract,6,1263000.0,Active
+E0618,Female,29,Master's,Customer Support,Support Lead,2017-03-04,,,Contract,8,1032000.0,Active
+E0619,Female,22,Bachelor's,Sales,Sales Executive,2019-01-31,2026-03-31,Higher Studies,Full-Time,0,624000.0,Resigned
+E0620,Male,26,Bachelor's,Finance,Accountant,2022-05-26,,,Full-Time,3,780000.0,Active
+E0549,Male,35,Master's,Customer Support,Support Associate,2017-03-03,2022-08-18,Poor Management,Part-Time,15,547000.0,Resigned
+E0139,Male,38,Bachelor's,Marketing,Content Specialist,2024-07-11,,,Part-Time,14,1179000.0,Active
+E0274,Male,34,Bachelor's,HR,HR Manager,2023-10-25,,,Full-Time,10,1244000.0,Active
